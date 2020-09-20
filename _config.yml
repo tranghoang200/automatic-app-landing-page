@@ -34,7 +34,7 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Search House and Porperties
+  - title                                 : Search House And Properties
     description                           : Using google API and the crawled data from some biggest real estate website in Vietnam.
     fontawesome_icon_name                 : magic
     
@@ -43,20 +43,20 @@ features                                  :
     fontawesome_icon_name                 : mobile
 
   - title                                 : Graph Support Prediction
-    description                           : prediction with high tendency, and easy visual with graph
+    description                           : Prediction with high tendency, and easy visual with graph.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : #Automatic Icon and Metadata
-    description                           : #Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : #sync
+  - title                                 : Predict According To Hourse Type
+    description                           : Type in the address you want, the app will predict all type of house in that area.
+    fontawesome_icon_name                 : star
 
-  - title                                 : #Easy to Tweak
-    description                           : #Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : #adjust
+  - title                                 : Predict Specific House
+    description                           : Input the infomation of the house you want, the app will predict all the house that have similar attribute.
+    fontawesome_icon_name                 : adjust
   
-  - title                                 : #Feature List
-    description                           : #Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : #star
+  - title                                 : Automatic Update Data Each Day
+    description                           : You will be up to date immediately each day, convenience for precise analysis for real estate companies.
+    fontawesome_icon_name                 : sync
 
   - title                                 : #Smart App Banner
     description                           : #Display a smart app banner on iOS devices.
