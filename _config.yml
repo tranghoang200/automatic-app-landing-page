@@ -12,8 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/logo.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Estalysis                                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : FREE                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Best Real Estate for prediction 
-
+app_description                           : Accurate prediction for house values
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
